@@ -18,7 +18,7 @@ namespace DashborderTest.UWP
     {
         DottedBorder _dottedBorder;
         FrameworkElement _navtiveContent;
-        double defaultPadding = 2;
+        double defaultPadding = 4;
         bool isOpened;
        
         public DashedBorderRenderer()

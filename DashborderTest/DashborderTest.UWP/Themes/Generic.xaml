@@ -11,6 +11,8 @@
                         <Rectangle
                             Width="{TemplateBinding Width}"
                             Height="{TemplateBinding Height}"
+                            RadiusX="5"
+                            RadiusY="5"
                             Stroke="{TemplateBinding StrokeBrush}"
                             StrokeDashArray="{TemplateBinding DashedStroke}" />
                         <ContentPresenter
